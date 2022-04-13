@@ -1,1 +1,5 @@
-# IMG_URL_Generator
+Generate A Random URL For A Screenshot Upload Site
+
+PLEASE TAKE CARE AS THE IMG CAN BE NSFW 
+
+YOU HAVE BEEN WARNED
